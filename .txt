@@ -1,0 +1,1 @@
+mongodb+srv://uzerqureshi965:server02@cluster0.ffflz6x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
